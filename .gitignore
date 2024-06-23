@@ -3,3 +3,6 @@
 
 # prettier
 node_modules/
+
+# jupyter
+**/.ipynb_checkpoints/
