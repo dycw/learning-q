@@ -3,3 +3,9 @@
 
 # prettier
 node_modules/
+
+# jupyter
+**/.ipynb_checkpoints/
+
+# dump
+dump/
